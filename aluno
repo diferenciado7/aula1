@@ -1,0 +1,4 @@
+x =  range  (3,8) 
+print (x [0]) # imprime o valor 3
+print  (x[1]) #imprime o valor 4
+print (x [4]) #imprime o valor 7     
